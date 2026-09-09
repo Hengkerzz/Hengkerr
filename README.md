@@ -27,4 +27,27 @@ Menggunakan perintah "tr '()' '{}'" untuk mengganti karakter "(" menjadi "{" dan
 Menggunakan perintah "tr 'a-zA-Z' 'n-za-mN-ZA-M'" untuk mengenkripsi atau mendekripsi teks menggunakan metode ROT13 (Rotate 13).
 Perintah ini menggeser setiap huruf alfabet sebanyak 13 posisi. Karena alfabet terdiri dari 26 huruf,proses ROT13 yang dilakukan
 dua kali akan mengembalikan teks ke bentuk aslinya.
->>>>>>> 89a8110 (Week0-CyberSec-TechArt)
+
+LANGKAH LANGKAH PENGERJAAN IntroToBurp
+
+![burp 1](burpstep1)
+Download burp dan standby di menu proxy
+
+![burp 2](burpstep2)
+salin link lalu kita masuk ke tools burp
+
+![burp 3](burpstep3)
+balik ke burp lalu open browser kemudian paste link
+
+![burp 4](burpstep4)
+jika sudah submit di web nya,lalu kembali ke tools dan lakukan foward
+
+![burp 5](burpstep5)
+isi kode otp
+
+![burp 6](burpstep6)
+hapus otp jangan sampai menghapus baris 16
+
+![burp 7](burpstep7)
+SELESAIIIIIIIIII 
+>>>>> 89a8110 (Week0-CyberSec-TechArt)
