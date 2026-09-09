@@ -30,24 +30,24 @@ dua kali akan mengembalikan teks ke bentuk aslinya.
 
 LANGKAH LANGKAH PENGERJAAN IntroToBurp
 
-![burp 1](burpstep1)
+![burp 1](burpstep1.png)
 Download burp dan standby di menu proxy
 
-![burp 2](burpstep2)
+![burp 2](burpstep2.png)
 salin link lalu kita masuk ke tools burp
 
-![burp 3](burpstep3)
+![burp 3](burpstep3.png)
 balik ke burp lalu open browser kemudian paste link
 
-![burp 4](burpstep4)
+![burp 4](burpstep4.png)
 jika sudah submit di web nya,lalu kembali ke tools dan lakukan foward
 
-![burp 5](burpstep5)
+![burp 5](burpstep5.png)
 isi kode otp
 
-![burp 6](burpstep6)
+![burp 6](burpstep6.png)
 hapus otp jangan sampai menghapus baris 16
 
-![burp 7](burpstep7)
+![burp 7](burpstep7.png)
 SELESAIIIIIIIIII 
 >>>>> 89a8110 (Week0-CyberSec-TechArt)
